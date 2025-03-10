@@ -2,8 +2,7 @@
 # Customer Churn Prediction Using Artificial Neural Network (ANN)
 
 ## Overview
-Customer churn prediction helps businesses understand why customers leave and take proactive steps to retain them. This project focuses on predicting customer churn in the telecom industry using a deep learning model (Artificial Neural Network). The model is evaluated using precision, recall, and F1-score.
-
+Customer churn prediction helps businesses understand why customers leave and take proactive steps to retain them. This project focuses on predicting customer churn in the telecom industry using a deep learning model (Artificial Neural Network). 
 ---
 
 ## Dataset
